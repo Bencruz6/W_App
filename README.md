@@ -1,2 +1,3 @@
-# W_App
-This repository is under development
+# This is an application under development
+
+Thank you
